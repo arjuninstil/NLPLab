@@ -1,2 +1,4 @@
 # NLPLab
-MA-INF-4222-Lab-SoSe2018
+University of Bonn
+MA-INF4222 Natural Language Processing Lab
+Summer Semester 2018
