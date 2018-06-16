@@ -90,8 +90,8 @@ this:hyerparameter7 a mexalgo:HyperParameter ;
 
 this:performance_measures1 a mexcore:PerformanceMeasure ;
     mexperf:accuracy "0.85"^^xsd:float ;
-    mexperf:neg_accuracy "0.93"^^xsd:float ;
-    mexperf:pos_accuracy "0.56"^^xsd:float ;
+    mexperf:neg_accuracy "0.94"^^xsd:float ;
+    mexperf:pos_accuracy "0.51"^^xsd:float ;
     mexperf:score "0.35"^^xsd:float ;
     prov:wasGeneratedBy this:execution1 .
 
